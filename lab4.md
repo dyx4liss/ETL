@@ -16,4 +16,4 @@
 
 Работа помогла мне понять, как Dask справляется с датасетами, превышающими доступную память, и почему ленивые вычисления критичны для масштабируемой обработки данных.
 
-Выполненная лабораторная доступна по [ссылке на Google Colab](https://colab.research.google.com/drive/1pHNYM8e8kqHOZhuVW2mXbyMxTS4bFN31?usp=sharing) или в виде локального файла `lab4.ipynb` в этом репозитории.
+Выполненная лабораторная доступна по [ссылке на Google Colab](https://colab.research.google.com/drive/1pHNYM8e8kqHOZhuVW2mXbyMxTS4bFN31?usp=sharing) или в виде локального файла `lab_04.ipynb` в этом репозитории.
