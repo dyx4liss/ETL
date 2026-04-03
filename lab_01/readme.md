@@ -65,12 +65,15 @@
 
 ## SQL-запросы для проверки результата
 
-```sql
+
 -- Общее количество загруженных записей
 SELECT COUNT(*) AS total_loaded FROM customer_requests;
+![Table Output](screenshoots/total_loaded.png)
 
 -- Распределение приоритетов (должны быть только 4 варианта)
 SELECT priority, COUNT(*) FROM customer_requests GROUP BY priority;
+![Table Output](screenshoots/customer_requests.png)
 
--- Проверка отсутствия пустых обязательных полей
-SELECT * FROM customer_requests WHERE ticket_id IS NULL OR customer_name IS NULL;
+-- Убедимся, что битые записи отфильтрованы
+SELECT * FROM customer_requests WHERE customer_name IS NULL OR customer_name IS NULL;
+![Table Output](screenshoots/ticket_id.png)
