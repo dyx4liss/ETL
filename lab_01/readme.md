@@ -25,7 +25,7 @@
 
 ## Скриншоты созданного конвейера в Spoon (общий вид)
 
-![Общий вид конвейера](screenshots/spoon_overview.png)
+![Общий вид конвейера](spoon_overview.png)
 
 ---
 
