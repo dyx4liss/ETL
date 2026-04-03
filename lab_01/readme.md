@@ -32,7 +32,7 @@
 ## Скриншоты настроек ключевых шагов
 
 ### 1. CSV File Input (чтение данных)
-![CSV File Input](screenshots/csv_input.png)
+![CSV File Input](screenshoots/csv_input.png)
 
 ### 2. String Operations (очистка пробелов и регистра)
 ![String Operations](screenshots/string_ops.png)
