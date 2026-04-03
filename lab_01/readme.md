@@ -25,7 +25,7 @@
 
 ## Скриншоты созданного конвейера в Spoon (общий вид)
 
-![Общий вид конвейера](screenshots/spoon_overview.png)
+![Общий вид конвейера](screenshoots/spoon_overview.png)
 
 ---
 
@@ -59,7 +59,7 @@
 
 После успешного выполнения трансформации в таблицу загружены только очищенные записи (без пустых `ticket_id` и `customer_name`). Приоритеты приведены к единому формату (`Low`, `Medium`, `High`, `Critical`).
 
-![Таблица после загрузки](screenshots/table_loaded.png)
+![Таблица после загрузки](screenshoots/table_loaded.png)
 
 ---
 
