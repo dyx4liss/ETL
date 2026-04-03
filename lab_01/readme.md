@@ -25,7 +25,7 @@
 
 ## Скриншоты созданного конвейера в Spoon (общий вид)
 
-![Общий вид конвейера](lab_01/screenshoots/spoon_overview.png)
+![Общий вид конвейера](dyx4liss/ETL/lab_01/screenshoots/spoon_overview.png)
 
 ---
 
