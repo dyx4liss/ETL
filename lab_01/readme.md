@@ -35,16 +35,16 @@
 ![CSV File Input](screenshoots/csv_input.png)
 
 ### 2. String Operations (очистка пробелов и регистра)
-![String Operations](screenshots/string_ops.png)
+![String Operations](screenshoots/string_ops.png)
 
 ### 3. Filter Rows (отбраковка битых записей)
-![Filter Rows](screenshots/filter_rows.png)
+![Filter Rows](screenshoots/filter_rows.png)
 
 ### 4. Value Mapper (нормализация приоритетов)
-![Value Mapper](screenshots/value_mapper.png)
+![Value Mapper](screenshoots/value_mapper.png)
 
 ### 5. Table Output (загрузка в MySQL)
-![Table Output](screenshots/table_output.png)
+![Table Output](screenshoots/table_output.png)
 
 ---
 
