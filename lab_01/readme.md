@@ -51,7 +51,6 @@
 
 Перед запуском ETL таблица `customer_requests` пуста.
 
-![Таблица до загрузки](screenshots/table_empty.png)
 
 ---
 
