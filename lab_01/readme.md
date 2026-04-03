@@ -76,4 +76,5 @@ SELECT priority, COUNT(*) FROM customer_requests GROUP BY priority;
 
 -- Убедимся, что битые записи отфильтрованы
 SELECT * FROM customer_requests WHERE customer_name IS NULL OR customer_name IS NULL;
+
 ![Table Output](screenshoots/ticket_id.png)
