@@ -146,7 +146,7 @@ product, category, name etc.
 
 --- 
 ## Файлы:
-[Главный Job (main_etl.kjb)](https://raw.githubusercontent.com/dyx4liss/ETL/main/Job_CSV_to_MYsql.kjb)
+[Главный Job (main_etl.kjb)](lab2/Job_CSV_to_MYsql.kjb)
 *   [Трансформация загрузки заказов (load_orders.ktr)](https://raw.githubusercontent.com/dyx4liss/ETL/main/lab_02_1_csv_orders.ktr)
 *   [Трансформация загрузки клиентов (load_customers.ktr)](https://raw.githubusercontent.com/dyx4liss/ETL/main/lab_02_2_csv_to_Customers.ktr)
 *   [Трансформация загрузки продуктов (load_products.ktr)](https://raw.githubusercontent.com/dyx4liss/ETL/main/lab_02_3_csv_to_products.ktr)
