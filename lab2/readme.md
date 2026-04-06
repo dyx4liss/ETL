@@ -137,10 +137,11 @@ product, category, name etc.
 
 ![filecheck](screenshots/discount-more-than-a-zero.png)
 
-2. **Анализ по скидкам**
+**2. Анализ по скидкам**
+   
 ![filecheck](screenshots/discount-analysis-segment.png)
 
-3. **Распределение скидок**
+**3. Распределение скидок**
 ![filecheck](screenshots/discount-disturb.png)
 
 --- 
