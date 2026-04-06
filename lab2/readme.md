@@ -88,7 +88,7 @@ ALTER TABLE products CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci
 **HTTP (Download): Загрузка файла, если его нет.**
 ![filecheck](screenshots/httpdownload.png)
 
-**Трансформация. Вызов трех трансформаций для загрузки данных **
+**Трансформация. Вызов трех трансформаций для загрузки данных**
 ![filecheck](screenshots/transformations.png)
 
 ## Шаг 3. Реализация.
@@ -107,11 +107,12 @@ order_date is not null, ship_date is not null, discount > [0.0]
 customer_id, city, etc.
 ![filecheck](screenshots/tr2-slct-vls.png)
 
+
 **Memory Group By. Группировка.**
+
 ![filecheck](screenshots/tr2-mem-gr-b.png)
 
 **Table Output. Выгрузка в таблицу.**
-
 ![filecheck](screenshots/tr2-tbl-out.png)
 
 ### Трансформация 3. Load Сustomers
@@ -119,7 +120,9 @@ customer_id, city, etc.
 product, category, name etc.
 ![filecheck](screenshots/tr3-slct-vls.png)
 
+
 **Memory Group By. Группировка.**
+
 ![filecheck](screenshots/tr3-mem-gr-b.png)
 
 **Table Output. Выгрузка в таблицу.**
@@ -129,7 +132,9 @@ product, category, name etc.
 ---
 
 ## Дополнительные Задания.
+
 **1. Скидка больше 0**
+
 ![filecheck](screenshots/discount-more-than-a-zero.png)
 
 2. **Анализ по скидкам**
