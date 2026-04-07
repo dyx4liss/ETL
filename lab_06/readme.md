@@ -6,13 +6,13 @@
 Выполнил: Студент группы АДЭУ-221 Дулис Кирилл 
 
 ## Архитектура проекта 
-[!error](screenshots/arch.png)
+![error](screenshots/arch.png)
 
 ## Архитектура DAG в Airflow (ETL Pipeline)
-[!error](screenshots/DAG.png)
+![!error](screenshots/dag.png)
 
 ## ERD-схема базы данных
-[!error](screenshots/ERD.png)
+![!error](screenshots/ERD.png)
 
 ## SQL 
-[!error](screenshots/SQL.png)
+![!error](screenshots/SQL.png)
